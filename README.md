@@ -10,5 +10,8 @@ Questions que je me suis posées :
 
 Le projet est un petit projet de data analyse/data science.
 
-Mon projet est aussi ouvrable sur google colab :
+Le projet est le "Main_file.ipynb", vous pouvez le consulter ainsi que mes observations.
+Vous trouverez dans "Data", les données qui alimentent mon projet.
+
+Mon projet est aussi consultable sur google colab :
 https://colab.research.google.com/drive/1pYlD-f0xxw4b7wtUMIWZUIZIGV_UVWZW?usp=sharing
